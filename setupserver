@@ -10,4 +10,6 @@ mv startserver $PREFIX/bin
 mv stopserver $PREFIX/bin
 mv mysqld $PREFIX/bin
 
-echo "\n silahkan untuk menjalankan server ketik startserver dan untuk menstop stopserver"
+echo "Silahkan untuk menjalankan server
+ketik startserver dan untuk
+berhenti gunakan stopserver"
