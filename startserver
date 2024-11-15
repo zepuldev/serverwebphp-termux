@@ -1,0 +1,4 @@
+#!/system/bin/sh
+apachectl start
+mysqld start
+echo "Server running"
