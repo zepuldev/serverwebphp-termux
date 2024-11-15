@@ -1,4 +1,5 @@
 #!/system/bin/sh
 apachectl stop
 mysqld stop
-echo "Server stop"
+echo "
+SERVER STOP"
