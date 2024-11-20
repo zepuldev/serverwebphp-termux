@@ -70,6 +70,6 @@ username dan password PHPmyadmin
 user: root
 password kosongkan
 
-```
+``
 GOODLUCK 😎
-```
+``
