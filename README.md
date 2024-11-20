@@ -35,7 +35,7 @@ jalankan perintah ini
 bash installserver
 ```
 
-**keenam **: <br>
+**keenam**: <br>
 jalankan perintah ini
 ```text
 bash setupserver
