@@ -1,4 +1,4 @@
-<span style="color: green;">***Serverweb termux APACHE, PHP, MYSQL, COMPOSER dan PHPmyadmin.***</span>
+<span style="color: green;">Serverweb termux APACHE, PHP, MYSQL, COMPOSER dan PHPmyadmin.</span>
 
 Pertama : <br>
 install git terlebih dahulu dengan command
