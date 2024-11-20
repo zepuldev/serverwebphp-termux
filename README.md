@@ -70,4 +70,4 @@ username dan password PHPmyadmin
 user: root
 password kosongkan
 
-goodluck 👍
+<span style="text-align:center;">goodluck 👍</span>
