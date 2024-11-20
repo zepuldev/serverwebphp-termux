@@ -1,7 +1,9 @@
 Serverweb termux APACHE, PHP, MYSQL, COMPOSER dan PHPmyadmin.
 
 Pertama ;
-install git terlebih dahulu dengan command  
+```markdown
+install git terlebih dahulu dengan command
+```  
 ```text
 pkg install git
 ```
