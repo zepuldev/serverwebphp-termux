@@ -7,37 +7,41 @@ pkg install git
 ```
 
 
-kedua: 
+kedua:<br>
 jalankan command berikut
 ```text
 git clone https://github.com/zhux01/serverwebphp-termux.git
 ```
 
-ketiga:
+ketiga:<br>
+Lalu lihat isi file dulu dengan command <br>
+```text
+ls
+```
 masuk ke folder serverwebphp-termux dengan command 
 ```text
 cd serverwebphp-termux
 ```
 
-keempat:
+keempat:<br>
 jalankan perintah ini copas text yang ada di bawah.
 ```text
 chmod +x installserver setupserver startserver stopserver mysqld
 ```
 
-kelima: 
+kelima: <br>
 jalankan perintah ini
 ```text
 bash installserver
 ```
 
-keenam: 
+keenam: <br>
 jalankan perintah ini
 ```text
 bash setupserver
 ```
 
-ketujuh:
+ketujuh:<br>
 izinkan akses storage dengan command berikut
 ```text
 termux-setup-storage
