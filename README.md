@@ -62,10 +62,10 @@ stopserver
 
 **ingat❗ huruf kecil semua perintahnya 😊**
 
-untuk mengakses phpmyadmin gunakan url berikut
-
+untuk mengakses phpmyadmin gunakan url berikut :
+```text
 http://localhost:8080/phpmyadmin
-
+```
 username dan password PHPmyadmin
 user: root
 password kosongkan
