@@ -1,19 +1,19 @@
 <h1>Serverweb termux APACHE, PHP, MYSQL, COMPOSER dan PHPmyadmin.</h1>
 
-Pertama : <br>
+**Pertama** : <br>
 install git terlebih dahulu dengan command
 ```text
 pkg install git
 ```
 
 
-kedua:<br>
+**kedua** :<br>
 jalankan command berikut
 ```text
 git clone https://github.com/zhux01/serverwebphp-termux.git
 ```
 
-ketiga:<br>
+**ketiga** :<br>
 Lalu lihat isi file dulu dengan command <br>
 ```text
 ls
@@ -23,31 +23,31 @@ masuk ke folder serverwebphp-termux dengan command
 cd serverwebphp-termux
 ```
 
-keempat:<br>
+**keempat** :<br>
 jalankan perintah ini copas text yang ada di bawah.
 ```text
 chmod +x installserver setupserver startserver stopserver mysqld
 ```
 
-kelima: <br>
+**kelima** : <br>
 jalankan perintah ini
 ```text
 bash installserver
 ```
 
-keenam: <br>
+**keenam **: <br>
 jalankan perintah ini
 ```text
 bash setupserver
 ```
 
-ketujuh:<br>
+**ketujuh** :<br>
 izinkan akses storage dengan command berikut
 ```text
 termux-setup-storage
 ```
 
-lalu buat folder htdocs di penyimpanan internal hp kalian dan buat projek php kalian disitu
+**lalu buat folder htdocs di penyimpanan internal hp kalian dan buat projek php kalian disitu**
 
 lalu untuk menjalankan servernya jalankan dengan perintah berikut :
 
@@ -60,7 +60,7 @@ For Stop :
 stopserver
 ```
 
-ingat❗ huruf kecil semua perintahnya 😊
+**ingat❗ huruf kecil semua perintahnya 😊**
 
 untuk mengakses phpmyadmin gunakan url berikut
 
