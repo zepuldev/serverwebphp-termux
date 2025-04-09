@@ -49,6 +49,30 @@ termux-setup-storage
 
 **lalu buat folder htdocs di penyimpanan internal hp kalian dan buat projek php kalian disitu**
 
+<h4>PENTING :</h4>
+untuk mengatasi phpmyadmin yang sudah deprecated harap melakukan langkah-langkah dibawah ini<br>
+masuk ke folder phpmyadmin dengan menjalankan perintah dibawah ini:
+```text
+cd $PREFIX/share/phpmyadmin
+```
+
+<h4>Jalankan ketiga perintah dibawah</h4>
+
+First :
+```text
+composer update slim/psr7
+```
+Second :
+```text
+composer require web-auth/webauthn-lib:^5.2.2 --dev --with-all-dependencies
+```
+Thirth :
+```text
+composer require thecodingmachine/safe:^3.0.2 --dev --with-all-dependencies
+```
+
+
+
 lalu untuk menjalankan servernya jalankan dengan perintah berikut :
 
 For Start :
