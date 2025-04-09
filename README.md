@@ -52,6 +52,8 @@ termux-setup-storage
 <h4>PENTING :</h4>
 untuk mengatasi phpmyadmin yang sudah deprecated harap melakukan langkah-langkah dibawah ini<br>
 masuk ke folder phpmyadmin dengan menjalankan perintah dibawah ini:
+<br>
+
 ```text
 cd $PREFIX/share/phpmyadmin
 ```
