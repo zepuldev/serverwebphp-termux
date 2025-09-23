@@ -10,7 +10,7 @@ pkg install git
 **kedua** :<br>
 jalankan command berikut
 ```text
-git clone https://github.com/zhux01/serverwebphp-termux.git
+git clone https://github.com/zepuldev/serverwebphp-termux.git
 ```
 
 **ketiga** :<br>
