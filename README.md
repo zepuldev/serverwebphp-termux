@@ -97,4 +97,4 @@ user: root
 password kosongkan
 
 <h3>GOODLUCK 😎</h3>
-Jika localhost tidak terupdate saat mengubah codingan atau tidak bisa mengakses phpmyadmin harap membuka termuxnya dengan mode jendela memgambang
+Jika tampilan localhost tidak terupdate saat mengubah codingan atau tidak bisa mengakses phpmyadmin harap membuka termuxnya dengan mode jendela mengambang
